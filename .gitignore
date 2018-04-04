@@ -3,3 +3,6 @@
 ################################################################################
 
 /IdentityData/bin
+/.vs
+/IdentityData/obj/Debug
+/packages
